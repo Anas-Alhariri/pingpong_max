@@ -13,7 +13,7 @@ export class Paddle {
         this.height = height || 10;
         this.position = position || 'top';
         this.speed = speed || 10;
-        this.color = color;
+        this.color = color || 'red';
 
         this.init();
     }
