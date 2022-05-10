@@ -19,8 +19,8 @@ export class Paddle {
     }
 
     init() {
-        this.ref.style.backgroundColor = this.color;
         this.ref.style.position = 'absolute'
+        this.ref.style.backgroundColor = this.color;
         this.ref.style.width = this.width + 'px';
         this.ref.style.height = this.height + 'px';
         this.ref.style.border = '1px solid black';
