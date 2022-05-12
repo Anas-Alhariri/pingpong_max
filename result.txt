@@ -1,0 +1,111 @@
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/From Kailen/Capstone-Project-Kai-Shanahan/Capstone-Project-Kai-Shanahan/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/Kailen/Stocks App - Reactjs/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/Capstone-Project-Kai-Shanahan/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/Max/Development/ReactJS/ClassBasedReactProjects/TodoApp/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/google-Auth0/google-auth0-2/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/stocksProject-1/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Old Desktop Files/StocksProject/client/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Github/older Projects/ReacjJS_Practice_Projects/expneses_app/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Github/resumes_project/server/node_modules/constantinople/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Github/pingpong_max/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-11/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-10/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/starter/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-09/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-06/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-08/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-12/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-13/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-14/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/002-Mongoose/after-section-06/node_modules/prettier-linter-helpers/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Desktop/Learning ExpressJS/002-Mongoose/after-section-06/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Documents/DotNet Projects/RedCrossMS/user-interface/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Documents/GitHub/Portfolio/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/typescript-vue/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/typescript/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/javascript-vue/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/javascript/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/quicktype.quicktype-12.0.46/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/adpyke.codesnap-1.3.4/node_modules/dom-to-image-even-more/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/meganrogge.template-string-converter-0.6.0/node_modules/ts-loader/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/.vscode/extensions/octref.vetur-0.35.0/server/node_modules/tslint/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/3-asynchronous-JS/final/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/1-node-farm/final/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-11/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-10/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/starter/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-09/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-06/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-08/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-12/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-13/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-14/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/3-asynchronous-JS/final/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/1-node-farm/final/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-11/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-10/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/starter/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-09/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-06/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-08/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-12/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-13/.prettierrc
+/System/Volumes/Data/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-14/.prettierrc
+/System/Volumes/Data/opt/homebrew/Cellar/heroku/7.59.2/libexec/node_modules/node-notifier/.prettierrc
+/System/Volumes/Data/opt/homebrew/Cellar/heroku/7.59.2/libexec/node_modules/@heroku-cli/notifications/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/From Kailen/Capstone-Project-Kai-Shanahan/Capstone-Project-Kai-Shanahan/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/Kailen/Stocks App - Reactjs/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/Capstone-Project-Kai-Shanahan/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/Max/Development/ReactJS/ClassBasedReactProjects/TodoApp/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/google-Auth0/google-auth0-2/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/stocksProject-1/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Old Desktop Files/StocksProject/client/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Github/older Projects/ReacjJS_Practice_Projects/expneses_app/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Desktop/Github/resumes_project/server/node_modules/constantinople/.prettierrc
+/Users/anasalhariri/Desktop/Github/pingpong_max/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-11/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-10/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/starter/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-09/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-06/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-08/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-12/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-13/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/001 - Creating ExpressJS Server/4-natours/after-section-14/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/002-Mongoose/after-section-06/node_modules/prettier-linter-helpers/.prettierrc
+/Users/anasalhariri/Desktop/Learning ExpressJS/002-Mongoose/after-section-06/.prettierrc
+/Users/anasalhariri/Library/Mobile Documents/com~apple~CloudDocs/.Trash/.prettierrc
+/Users/anasalhariri/Documents/DotNet Projects/RedCrossMS/user-interface/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/Documents/GitHub/Portfolio/node_modules/node-notifier/.prettierrc
+/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/typescript-vue/.prettierrc
+/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/typescript/.prettierrc
+/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/javascript-vue/.prettierrc
+/Users/anasalhariri/.vscode/extensions/rvest.vs-code-prettier-eslint-3.1.0/examples/javascript/.prettierrc
+/Users/anasalhariri/.vscode/extensions/quicktype.quicktype-12.0.46/.prettierrc
+/Users/anasalhariri/.vscode/extensions/adpyke.codesnap-1.3.4/node_modules/dom-to-image-even-more/.prettierrc
+/Users/anasalhariri/.vscode/extensions/meganrogge.template-string-converter-0.6.0/node_modules/ts-loader/.prettierrc
+/Users/anasalhariri/.vscode/extensions/octref.vetur-0.35.0/server/node_modules/tslint/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/3-asynchronous-JS/final/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/1-node-farm/final/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-11/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-10/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/starter/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-09/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-06/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-08/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-12/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-13/.prettierrc
+/Users/anasalhariri/Downloads/complete-node-bootcamp-master/4-natours/after-section-14/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/3-asynchronous-JS/final/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/1-node-farm/final/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-11/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-10/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/starter/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-09/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-06/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-08/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-12/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-13/.prettierrc
+/Users/anasalhariri/Downloads/older files/2/complete-node-bootcamp-master/4-natours/after-section-14/.prettierrc
+/opt/homebrew/Cellar/heroku/7.59.2/libexec/node_modules/node-notifier/.prettierrc
+/opt/homebrew/Cellar/heroku/7.59.2/libexec/node_modules/@heroku-cli/notifications/node_modules/node-notifier/.prettierrc

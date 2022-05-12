@@ -1,7 +1,7 @@
 export function loadGameElements() {
-    const templates = document.getElementsByTagName('template')
+    const templates = document.getElementsByTagName('template');
 
-    const gameBox = document.getElementById('game-box')
+    const gameBox = document.getElementById('game-box');
 
     const ball = templates.namedItem('ball').content.cloneNode(true).firstElementChild;
     const topPaddle = templates.namedItem('top-paddle').content.cloneNode(true).firstElementChild;
@@ -17,6 +17,6 @@ export function loadGameElements() {
         ball,
         topPaddle,
         bottomPaddle,
-        gameBox
-    }
+        gameBox,
+    };
 }

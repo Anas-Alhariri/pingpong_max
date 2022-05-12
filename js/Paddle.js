@@ -19,7 +19,7 @@ export class Paddle {
     }
 
     init() {
-        this.ref.style.position = 'absolute'
+        this.ref.style.position = 'absolute';
         this.ref.style.backgroundColor = this.color;
         this.ref.style.width = this.width + 'px';
         this.ref.style.height = this.height + 'px';
@@ -28,6 +28,4 @@ export class Paddle {
         this.ref.style.left = this.x + 'px';
         this.ref.style.borderRadius = '5px';
     }
-
-
 }
