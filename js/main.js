@@ -9,6 +9,7 @@ const paddle1 = new Paddle({
     height: 10,
     speed: 50,
 });
+
 const paddle2 = new Paddle({
     position: 'bottom',
     color: 'yellow',
@@ -16,8 +17,9 @@ const paddle2 = new Paddle({
     height: 10,
     speed: 50,
 });
+
 const ball = new Ball({ x: 0, y: 0, color: 'yellow' });
 
-const newGame = new Game(ball, paddle1, paddle2, { ballSpeed: 0.1 });
+const newGame = new Game(ball, paddle1, paddle2, { ballSpeed: 5 });
 
 newGame.start();
